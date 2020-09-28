@@ -10,3 +10,10 @@ cryptography I thought. I could not wait to reveal the secret behind this sting.
 recalled the Caesar cipher the instructor taught a few days ago. So I try to decrypt 
 this string in this way. I switch different keys and finally when key is 5 the string 
 turn to "youarereallysmart". I thought I found the secret behind.
+
+  The truth was there was no secret. The page in front of me was yet another new web page.
+I stared at the page and the blank page stared back, mocking me. I got frustrated as it 
+stared. Why bother continuing the game? The thought suddenly came to me. Yeah, why not 
+just throw away the whole thing and simply leave？ So I stood up and walked out of the
+room I didn't realize I was in. Facing the bright sunlight, I opened my eyes to see the
+world unfolding before me. The world was blank, like the web page.
