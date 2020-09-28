@@ -4,3 +4,5 @@ but I started scrolling one day and I never turned back. There was no button to 
 through pages, so I had to scorll. The day finally came where I knew I would reach the 
 absolute last page. After many long days of scrolling, I finally reached the official
 end of the Internet. This was the message I was greeted with...
+
+This is a strange string of English letters: "dtzfwjwjfqqdxrfwy". It must be a Cryptography I thought. I could not wait to reveal the secret behind this sting. I recalled the Caesar cipher the instructor taught a few days ago. So I try to decrypt this string in this way. I switch different keys and finally when key is 5 the string turn to "youarereallysmart". I thought I found the secret behind.
