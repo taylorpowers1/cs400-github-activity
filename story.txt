@@ -17,3 +17,5 @@ stared. Why bother continuing the game? The thought suddenly came to me. Yeah, w
 just throw away the whole thing and simply leave？ So I stood up and walked out of the
 room I didn't realize I was in. Facing the bright sunlight, I opened my eyes to see the
 world unfolding before me. The world was blank, like the web page.
+
+This line was added through local repo on my google cloud virtual machine
